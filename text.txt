@@ -1,0 +1,1932 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mis XV Santiago Carreón Xicohténcatl</title>
+
+    <!-- Meta tags para redes sociales -->
+    <meta property="og:title" content="Mis XV Santiago Carreón Xicohténcatl">
+    <meta property="og:description" content="¡Te invito a celebrar conmigo este día tan especial!">
+    <meta property="og:image" content="https://invitadigitales.github.io/Santiago/f.png">
+    <meta property="og:url" content="https://invitadigitales.github.io/Santiago/">
+    <meta property="og:type" content="website">
+
+    <!-- CSS Libraries -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-SgOJa3DmI69IUzQ2PVdRZhwQ+dy64/BUtbMJw1MZ8t5HZApcHrRKUc4W0kG879m7" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flexslider@2.7.2/flexslider.css">
+    <link rel="stylesheet" href="awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastify-js/1.12.0/toastify.min.css">
+
+
+    <link rel="stylesheet" type="text/css" href="util.css">
+    <link rel="stylesheet" type="text/css" href="filter.css">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+
+</head>
+
+<body class="bg_rey">
+    <div class="content overflow_hidden">
+
+
+
+        
+        <div class="pst_relative hpx_500 w_100 overflow_hidden">
+
+
+
+
+
+            <div class="pst_absolute top_min_10 left_40   zdex_2  rotate_70 ">
+                <img class="pst_absolute wpx_400 zdex_2 filter_blue observado animate__rollIn" src="flor_oro_espejo.png">
+            </div>
+
+
+            <div class="pst_absolute right_15 top_30   zdex_2  rotate_0 observado animate__rollIn">
+                <img class="wpx_100 zdex_2 opacity_05 filter_blue" src="oja_golden.png">
+            </div>
+
+
+            <div class="pst_absolute left_15 top_30   zdex_2  rotate_0 observado animate__rollIn">
+                <img class="wpx_100 zdex_2 esepjo_x opacity_05 filter_blue " src="oja_golden.png">
+            </div>
+
+            <div class="pst_absolute left_50 tra_x50 top_60   zdex_2  rotate_0">
+                <img class="wpx_220 zdex_2 opacity_05 filter_green observado animate__rollIn " src="bailarin.png">
+            </div>
+
+
+
+            <div class="pst_absolute left_50 tra_x50 top_50 w_100 zdex_2  rotate_0">
+                <img class="w_100 zdex_2 filter_blue" src="rueda.gif">
+            </div>
+
+
+
+            <div class="pst_absolute w_100 top_70 left_50 tra_y50 text-center color_white zdex_4  ">
+                <h1 class="font_marthin text_shadow_dark fspx_60 line_height_70 m_0 mt_25 observado animate__bounceInDown">
+                    <span>Santiago Carreón Xicohténcatl</span>
+                </h1>
+            </div>
+
+        </div>
+
+
+
+
+
+
+
+        <div class="pst_relative min_h650px w_100 overflow_hidden">
+
+            <div class="pst_absolute top_50 left_70   zdex_2  rotate_140">
+                <img class="pst_absolute wpx_400 zdex_2 esepjo_y filter_blue observado animate__bounceInUp" src="flor_oro.png">
+            </div>
+
+
+            <div class="pst_absolute top_50 right_70 zdex_2  rotate_320">
+                <img class="pst_absolute wpx_400 zdex_2 esepjo_x  filter_blue observado animate__bounceInUp" src="flor_oro.png">
+            </div>
+
+            
+
+            <div class="pst_relative top_10 zdex_4">
+
+                <h1 class=" font_short text_center color_white fspx_50 m_0 observado animate__bounceInUp  ">Mis XV Años</h1>
+
+                <center>
+                    <img class="mt_50 wpx_250 zdex_2 observado animate__flip " src="15_golden.png">
+                </center>
+
+
+                <br><br>
+
+                <h1 class=" font_sanseriffic font_bold text_center color_white fspx_40 m_0 observado animate__bounceInRight ">Dale play!</h1>
+
+                <br>
+
+
+                <center id="play">
+                    <img class="wpx_300 zdex_2 observado animate__bounce" src="reproductor.png">
+                </center>
+            </div>
+
+
+        </div>
+
+
+
+        <div class="pst_relative w_100 overflow_hidden">
+
+            <div class="pst_absolute top_55 left_70   zdex_2  rotate_140">
+                <img class="pst_absolute wpx_400 zdex_2 esepjo_y filter_blue observado animate__bounceInUp" src="flor_oro.png">
+            </div>
+
+
+            <div class="pst_absolute top_45 right_70 zdex_2  rotate_320">
+                <img class="pst_absolute wpx_400 zdex_2 esepjo_x  filter_blue observado animate__bounceInUp" src="flor_oro.png">
+            </div>
+
+
+            
+
+            <div class="pst_relative top_10 zdex_4">
+                <br><br>
+                <p class="font_sanseriffic font_bold text_center color_white fspx_20 m_0 w_60 d_block m0_a  observado animate__bounceInUp">Con la bendición de Dios y el amor que mi familia me ha dado, me siento feliz de llegar a este momento de mi vida. El día que dejaré atrás mi infancia y comenzaré un nuevo viaje y porque son parte de mi vida: es mi deseo que compartan conmigo este día tan especial.</p>
+            </div>
+
+
+            <br><br>
+
+            <h1 class="pst_relative  zdex_4 font_short text_center color_white fspx_50 m_0  observado animate__bounceInRight" >Te invitamos a celebrar </h1>
+
+
+        </div>
+
+
+
+
+        <div class="pst_relative w_100 overflow_hidden">
+
+            <div class="pst_absolute top_20 left_min_30  zdex_2  rotate_20">
+                <img class="pst_absolute wpx_250 zdex_2 esepjo_y filter_blue observado animate__bounceInUp" src="flor_oro2_invertir.png">
+            </div>
+
+
+            <div class="pst_absolute top_45 right_70 zdex_2  rotate_320">
+                <img class="pst_absolute wpx_400 zdex_2 esepjo_x  filter_blue observado animate__bounceInUp" src="flor_oro.png">
+            </div>
+
+            <br><br><br>
+            <h1 class=" font_short text_center color_white fspx_50 m_0 observado animate__bounceInUp">Mis Papás </h1>
+            <br>
+            <h1 class="pst_relative zdex_4 font_times text_center color_white fspx_40 m_0 observado animate__bounceInRight">Javier<br> Carreón Hernández </h1>
+            <h1 class="pst_relative zdex_4 font_times text_center color_white fspx_40 m_0 observado animate__bounceInRight">y </h1>
+            <h1 class="pst_relative zdex_4 font_times text_center color_white fspx_40 m_0 observado animate__bounceInRight">Elizabeth<br> Xicohténcatl Guerrero </h1>
+
+            
+
+            <div class="pst_relative top_10 zdex_4">
+                <br>
+                <p class="font_sanseriffic font_bold text_center color_white fspx_20 m_0 w_60 d_block m0_a observado animate__bounceInRight">En un reino donde los sueños se hacen realidad y los cuentos cobran vida, hay corazones llenos de amor que celebran este día tan especial...</p>
+            </div>
+
+            <br><br>
+            <h1 class="pst_relative  zdex_4 font_short text_center color_white fspx_50 m_0 observado animate__bounceInRight">Mis padrinos </h1><br>
+
+
+        </div>
+
+
+
+
+        <div class="pst_relative w_100 overflow_hidden">
+
+            <div class="pst_absolute top_50 left_65   zdex_2  rotate_140">
+                <img class="pst_absolute wpx_400 zdex_2 esepjo_y filter_blue observado animate__bounceInUp" src="flor_oro.png">
+            </div>
+
+
+            <div class="pst_absolute top_50 right_65 zdex_2  rotate_320">
+                <img class="pst_absolute wpx_400 zdex_2 esepjo_x  filter_blue observado animate__bounceInUp" src="flor_oro.png">
+            </div>
+
+
+
+            <h1 class="pst_relative zdex_4 font_times text_center color_white fspx_40 m_0 observado animate__bounceInRight">Eleuterio <br> Montalvo Moreno </h1>
+            <h1 class="pst_relative zdex_4 font_times text_center color_white fspx_40 m_0 observado animate__bounceInRight">y </h1>
+            <h1 class="pst_relative zdex_4 font_times text_center color_white fspx_40 m_0 observado animate__bounceInRight"> Cinthia Deni <br>Garmendia Parra </h1>
+
+                
+               
+            <center><br>
+                <img class="wpx_300 zdex_2 filter_blue observado animate__bounceInUp" src="greca5.png">
+            </center><br>
+
+            
+            <h1 class=" font_times text_center color_white fspx_40 m_0 line_height_30 observado animate__bounceInUp">Tu presencia hará<br> de este día un <br>recuerdo inolvidable </h1>
+
+            <div class="pst_relative top_10 zdex_4">
+                <br>
+                <p class="font_sanseriffic font_bold text_center color_white fspx_20 m_0 w_60 d_block m0_a observado animate__bounceInDown">La vida me ha dado la dicha de llegar a este día rodeado de amor, y por eso mi corazón no cabe de gratitud.</p>
+            </div><br><br>
+
+
+        </div>
+
+
+
+
+        <div class="pst_relative w_100 overflow_hidden">
+
+            <div class="pst_absolute top_50 left_70   zdex_2  rotate_140">
+                <img class="pst_absolute wpx_400 zdex_2 esepjo_y filter_blue observado animate__bounceInUp" src="flor_oro.png">
+            </div>
+
+
+            <div class="pst_absolute top_50 right_70 zdex_2  rotate_320">
+                <img class="pst_absolute wpx_400 zdex_2 esepjo_x  filter_blue observado animate__bounceInUp" src="flor_oro.png">
+            </div>
+
+
+            <h1 class="font_marthin fspx_70 color_white m_0 w_100 text_center observado animate__rollIn">
+                <span>El Gran<br> Día</span>
+            </h1>
+           
+
+            <h1 class=" font_sanseriffic text_center color_white fspx_40 m_0 line_height_30 observado animate__rollIn">Sábado  29<br> de noviembre  </h1><br>
+
+
+
+
+            <div class="pst_relative zdex_4">
+                <div class="calendar-container">
+                    <div class="calendar-grid">
+                        <!-- Headers de días -->
+                        <div class="day-header">Dom</div>
+                        <div class="day-header">Lun</div>
+                        <div class="day-header">Mar</div>
+                        <div class="day-header">Mié</div>
+                        <div class="day-header">Jue</div>
+                        <div class="day-header">Vie</div>
+                        <div class="day-header">Sáb</div>
+                        
+                        <!-- Primera semana -->
+                        <div class="day-cell"></div>
+                        <div class="day-cell"></div>
+                        <div class="day-cell"></div>
+                        <div class="day-cell"></div>
+                        <div class="day-cell"></div>
+                        <div class="day-cell"></div>
+                        <div class="day-cell">1</div>
+                        
+                        <!-- Segunda semana -->
+                        <div class="day-cell">2</div>
+                        <div class="day-cell">3</div>
+                        <div class="day-cell">4</div>
+                        <div class="day-cell">5</div>
+                        <div class="day-cell">6</div>
+                        <div class="day-cell">7</div>
+                        <div class="day-cell">8</div>
+                        
+                        <!-- Tercera semana -->
+                        <div class="day-cell">9</div>
+                        <div class="day-cell">10</div>
+                        <div class="day-cell">11</div>
+                        <div class="day-cell">12</div>
+                        <div class="day-cell">13</div>
+                        <div class="day-cell">14</div>
+                        <div class="day-cell">15</div>
+                        
+                        <!-- Cuarta semana -->
+                        <div class="day-cell">16</div>
+                        <div class="day-cell">17</div>
+                        <div class="day-cell">18</div>
+                        <div class="day-cell">19</div>
+                        <div class="day-cell">20</div>
+                        <div class="day-cell">21</div>
+                        <div class="day-cell">22</div>
+                        
+                        <!-- Quinta semana -->
+                        <div class="day-cell">23</div>
+                        <div class="day-cell">24</div>
+                        <div class="day-cell">25</div>
+                        <div class="day-cell">26</div>
+                        <div class="day-cell">27</div>
+                        <div class="day-cell">28</div>
+                        <div class="day-cell">
+
+                            <div class="pst_absolute top_1 right_1 zdex_2  rotate_0">
+                                <img class="wpx_100 observado animate__rollIn" src="corazon.gif">
+                            </div>
+                            <span>29</span>
+                        </div>                        
+                        <!-- Sexta semana -->
+                        <div class="day-cell">30</div>
+                        <div class="day-cell"></div>
+                        <div class="day-cell"></div>
+                        <div class="day-cell"></div>
+                        <div class="day-cell"></div>
+                        <div class="day-cell"></div>
+                        <div class="day-cell"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+        
+        <br>
+        <div class="pst_relative w_100 hpx_150 overflow_hidden">
+            <div class="pst_relative toppx_10 zdex_2 hpx_1">
+                <h1 class=" font_marthin fspx_70 color_white m_0 w_100 text_center text_shadow_dark observado animate__rollIn">Faltan</h1>
+            </div>
+            <img class="pst_absolute top_10 w_90 filter_blue observado animate__rollIn" src="cinta.png">
+        </div>
+
+        <div class="pst_relative w_100 overflow_hidden">
+            <div class="text_center color_white observado animate__bounceInUp">
+                <div id="countdown" class="fspx_20 font_times font_bold"></div>
+            </div>
+        </div>
+
+
+
+
+
+        <div class="pst_relative w_100 overflow_hidden"><br><br>
+            <h1 class=" font_times text_center color_white fspx_35 m_0 line_height_30 observado animate__bounceInRight">Preparate para un dia<br> inolvidable  </h1>
+        </div>
+
+
+
+
+
+        <div class="pst_relative w_100 overflow_hidden">
+
+            <div class="pst_absolute top_20 left_min_20  zdex_2  rotate_20">
+                <img class="pst_absolute wpx_250 zdex_2 esepjo_y filter_blue observado animate__bounceInUp" src="flor_oro2_invertir.png">
+            </div>
+
+
+            <div class="pst_absolute top_50 right_70 zdex_2  rotate_320">
+                <img class="pst_absolute wpx_400 zdex_2 esepjo_x  filter_blue observado animate__bounceInUp" src="flor_oro.png">
+            </div>
+            
+
+            
+            <center><br><br>
+                <img class="wpx_300 zdex_2 filter_blue observado animate__bounceInRight" src="greca5.png">
+            </center><br>
+            <div class="pst_relative top_10 zdex_4">
+
+                <h1 class=" font_paris text_center color_white fspx_50 m_0 observado animate__flip">Ceremonia Religiosa</h1>
+
+                <center>
+                    <img class="mt_30 wpx_150 zdex_2 filter_blue observado animate__bounceInRight" src="iglesia_oro.png">
+                </center>
+
+                <br>
+
+                <h1 class=" font_sanseriffic font_bold text_center color_white fspx_40 m_0 observado animate__bounceInRight">4 PM</h1>
+                <h1 class=" font_sanseriffic font_bold text_center color_white fspx_40 m_0 text_uppercase text_ls1 observado animate__bounceInRight">Parroquia de San Antonio Abad</h1><br>
+                <h1 class=" font_sanseriffic font_bold text_center color_white fspx_30 m_0 text_ls1 observado animate__bounceInLeft">Calle Vicente Guerrero s/n Col. la Cienega Papalotla, Tlax.</h1>
+
+                <br>
+                <a class=" bgimg_cover font_sanseriffic text_ls1 fspx_20 my_btn no_link color_black px_20 py_10 d_block 
+                wpx_200 m0_a rounded_20 text_center font_bold observado animate__bounceInUp" style="background-image: url('btn_oro.png');" href="https://maps.app.goo.gl/6K5v4QGuPwrogvnf8" id="acces">
+                Ver Ubicación</a>
+           
+            </div>
+
+
+        </div>
+
+
+
+
+
+        <div class="pst_relative w_100 overflow_hidden">
+
+            <div class="pst_absolute top_20 left_min_30  zdex_2  rotate_20">
+                <img class="pst_absolute wpx_250 zdex_2 esepjo_y filter_blue observado animate__bounceInUp" src="flor_oro2_invertir.png">
+            </div>
+
+
+            <div class="pst_absolute top_50 right_80 zdex_2  rotate_320">
+                <img class="pst_absolute wpx_400 zdex_2 esepjo_x  filter_blue observado animate__bounceInUp" src="flor_oro.png">
+            </div>
+
+            
+            <center><br><br>
+                <img class="wpx_300 zdex_2 filter_blue observado animate__bounceInUp" src="greca5.png">
+            </center><br>
+            <div class="pst_relative top_10 zdex_4">
+
+                <h1 class=" font_paris text_center color_white fspx_50 m_0 observado animate__flip">Recepción </h1>
+
+                <center>
+                    <img class="mt_30 wpx_150 zdex_2 filter_blue observado animate__bounceInUp" src="salon_oro.png">
+                </center>
+
+                <br>
+
+                <h1 class=" font_sanseriffic font_bold text_center color_white fspx_30 m_0 observado animate__bounceInUp">5:30 PM</h1>
+                <h1 class=" font_sanseriffic font_bold text_center color_white fspx_30 m_0 text_uppercase text_ls1 observado animate__bounceInUp">Teatro Mercedes</h1><br>
+                <h1 class=" font_sanseriffic font_bold text_center color_white fspx_30 m_0 text_ls1 observado animate__bounceInUp">90790, Ma. Amparo Verderique<br> Sheim 12, San Buenaventura, Papalotla, Tlax.</h1>
+
+                <br>
+                <a class=" bgimg_cover font_sanseriffic text_ls1 fspx_20 my_btn no_link color_black px_20 py_10 d_block 
+                wpx_200 m0_a rounded_20 text_center font_bold observado animate__bounceInRight" style="background-image: url('btn_oro.png');" href="https://maps.app.goo.gl/Cgzkbdozk2Hu1nQeA" id="acces">
+                Ver Ubicación</a>
+           
+            </div>
+
+
+        </div>
+
+
+
+
+
+
+
+
+
+
+        <br><br>
+        <div class="pst_relative w_100 hpx_150 overflow_hidden">
+            <div class="pst_relative toppx_10 zdex_2 hpx_1">
+                <h1 class=" font_marthin fspx_60 color_white m_0 w_100 text_shadow_dark text_center observado animate__rollIn">Tu asistencia</h1>
+            </div>
+            <img class="pst_absolute top_10 w_90 filter_blue observado animate__rollIn" src="cinta.png">
+        </div>
+
+
+
+
+
+
+        <div class="pst_relative w_100 overflow_hidden">
+
+            <div class="pst_absolute top_125 left_60   zdex_2  rotate_140">
+                <img class="pst_absolute wpx_400 zdex_2 esepjo_y filter_blue observado animate__bounceInUp" src="flor_oro.png">
+            </div>
+
+
+            <div class="pst_absolute top_95 right_60 zdex_2  rotate_320">
+                <img class="pst_absolute wpx_400 zdex_2 esepjo_x  filter_blue observado animate__rollIn" src="flor_oro.png">
+            </div>
+
+            
+
+            <div class="pst_relative top_10 zdex_4">
+               
+                <p class="font_sanseriffic font_bold text_center color_white fspx_20 m_0 w_60 d_block m0_a observado animate__rollIn">Tu asistencia es muy importante para nosotros.  Por favor, confírmala en el siguiente enlace</p>
+            </div>
+
+            <br><br>
+            <a class="pst_relative zdex_4 bgimg_cover font_sanseriffic text_ls1 fspx_20 my_btn no_link color_black px_20 py_10 d_block 
+            wpx_200 m0_a rounded_20 text_center font_bold observado animate__rollIn" style="background-image: url('btn_oro.png');" 
+            href="https://api.whatsapp.com/send?phone=2228986697&text=Hola%2C%20confirmo%20mi%20asistencia%20a%20tu%20evento" id="acces">Confirmar</a><br>
+           
+            <a class="pst_relative zdex_4 bgimg_cover font_sanseriffic text_ls1 fspx_20 my_btn no_link color_black px_20 py_10 d_block 
+            wpx_200 m0_a rounded_20 text_center font_bold observado animate__bounceInRight" style="background-image: url('btn_oro.png');" 
+            href="https://api.whatsapp.com/send?phone=2222079500&text=Hola%2C%20confirmo%20mi%20asistencia%20a%20tu%20evento" id="acces">Confirmar</a>
+           
+
+
+        </div>
+
+
+        <div class="pst_relative w_100 overflow_hidden">
+
+            <div class="pst_absolute top_55 left_65   zdex_2  rotate_140">
+                <img class="pst_absolute wpx_400 zdex_2 esepjo_y filter_blue observado animate__bounceInUp" src="flor_oro.png">
+            </div>
+
+
+            <div class="pst_absolute top_45 right_65 zdex_2  rotate_320">
+                <img class="pst_absolute wpx_400 zdex_2 esepjo_x  filter_blue observado animate__bounceInUp" src="flor_oro.png">
+            </div>
+
+            <center><br><br><br>
+                <img class="wpx_300 zdex_2 filter_blue observado animate__rollIn" src="greca5.png">
+            </center><br>
+            <div class="pst_relative top_10 zdex_4">
+                <p class="font_sanseriffic font_bold text_center color_white fspx_20 m_0 w_60 d_block m0_a observado animate__rollIn">
+                    El regalo es opcional, la asistencia obligatoria. Si deseas tener un detalle conmigo, una lluvia de sobres será bien recibida.
+                </p>
+            </div>
+            <center>
+                <img class="mt_30 wpx_150 zdex_2 filter_blue observado animate__rollIn" src="sobre_oro.png">
+            </center>
+            <br><br>
+
+        </div>
+
+
+
+
+
+
+        <div class="pst_relative w_100 overflow_hidden">
+
+
+
+            <div class="pst_absolute top_60 left_70   zdex_2  rotate_140">
+                <img class="pst_absolute wpx_400 zdex_2 esepjo_y filter_blue observado animate__bounceInUp" src="flor_oro.png">
+            </div>
+
+
+
+            <div class="pst_absolute top_60 right_70 zdex_2  rotate_310">
+                <img class="pst_absolute wpx_400 zdex_2 esepjo_x  filter_blue observado animate__bounceInUp" src="flor_oro.png">
+            </div>
+
+
+
+            <div class="pst_absolute top_55 right_30 zdex_2  rotate_60">
+                <img class="pst_absolute wpx_400 zdex_2 esepjo_x  filter_blue observado animate__bounceInUp" src="flor_oro.png">
+            </div>
+
+
+
+            <center><br><br><br>
+                <img class="wpx_300 zdex_2 filter_blue" src="greca5.png">
+            </center><br>
+            <div class="pst_relative top_10 zdex_4">
+                <p class="font_sanseriffic font_bold text_center color_white fspx_20 m_0 w_60 d_block m0_a observado animate__rollIn">Me despido de la niñez con gratitud y doy la bienvenida a mis sueños. Gracias por acompañarme en este momento inolvidable. </p>
+            </div>
+            <center>
+                <img class="mt_30 wpx_150 zdex_2 filter_blue observado animate__rollIn" src="corona.png">
+            </center>
+            <br><br>
+    
+            <h1 class="font_marthin fspx_60 color_white m_0 w_100 text_center observado animate__rollIn">
+                <span>No faltes<br> Te esperamos</span>
+            </h1><br><br><br><br><br><br><br><br><br><br><br>
+
+        </div>
+
+
+
+
+
+
+
+
+        <!-- Footer -->
+        <footer class="bd-footer pb-4 mt_30">
+            <div class="container-fluid pb-4">
+                <div class="row align-items-center py-4 color_white">
+
+                    <div class="col-12 text-center mb-3 mb-md-0">
+                       <p class="font_chewy mb-0 fs-6">© 2025 Todos los derechos reservados</p>
+                       <a href="https://invitadigitales.github.io/mx/" class="font_chewy mb-0 fs-6 no_link color_black">
+                          <img src="net.svg" alt="Instagram" class="footer-icon">
+                          <span class="color_white">invitadigitales.github.io/mx<span>
+                        </a>
+                    </div>
+
+                    <div class="col-12">
+                        <div class="d-flex justify-content-center gap-2">
+                            <div class="footer-links font_chewy">
+                                <a href="https://www.facebook.com/invitasdigital/" class="d-flex align-items-center justify-content-center fs-6 ">
+                                    <img src="facebook.svg" alt="Facebook" class="footer-icon">
+                                    <span class="color_white">InvitaDigitales</span>
+                                </a>
+                            </div>
+                            <div class="footer-links font_chewy">
+                                <a href="https://www.instagram.com/inbitadigitales/" class="d-flex align-items-center justify-content-center fs-6">
+                                    <img src="instagram.svg" alt="Instagram" class="footer-icon">
+                                    <span class="color_white">InbitaDigitales</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+
+        <div class="pst_fixed zdex_9999 p_30" id="controls">
+            <ul class="m_0 p_0 liststyle_none">
+                <li id="sound">
+                    <img src="sound_mute.svg" class="wpx_35 cur_pointer">
+                </li>
+
+            </ul>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+<!-- Scripts -->
+<script src="controller.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/flexslider@2.7.2/jquery.flexslider-min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/countdown/2.6.0/countdown.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/js/bootstrap.bundle.min.js" integrity="sha384-k6d4wzSIapyDyv1kpU366/PK5hCdSbCRGRCMv+eplOQJWyd1fbcAu9OCUj5zNLiq" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/toastify-js/1.12.0/toastify.min.js"></script>
+
+
+
+<script>
+
+
+var audio = new Audio('audio2.mp3');
+audio.loop = true;
+audio.volume = 0.5;
+
+
+
+var targetDate = new Date("Nov 29, 2025 08:00:00").getTime();
+var countdownTimer = countdown(
+    targetDate,
+    function(ts) {
+        var countdownText = `
+            <div class="time-container">
+                <span>${ts.days}</span>
+                <p>Días</p>
+            </div>
+            <div class="time-container">
+                <span>${ts.hours}</span>
+                <p>Horas</p>
+            </div>
+            <div class="time-container">
+                <span>${ts.minutes}</span>
+                <p>Minutos</p>
+            </div>
+            <div class="time-container">
+                <span>${ts.seconds}</span>
+                <p>Segundos</p>
+            </div>
+        `;
+
+        document.getElementById("countdown").innerHTML = countdownText;
+    },
+    countdown.DAYS | countdown.HOURS | countdown.MINUTES | countdown.SECONDS
+);
+
+
+
+new WOW().init();
+
+
+
+
+
+
+
+
+
+
+
+
+document.addEventListener("DOMContentLoaded", () => {
+  const elementos = document.querySelectorAll(".observado");
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        const el = entry.target;
+        if (el.classList.contains("observado")) {
+          el.className = el.className.replace(/\bobservado\b/, "animate__animated");
+
+          // fuerza reinicio de animación
+          el.style.animation = 'none';
+          void el.offsetWidth; // reflow
+          el.style.animation = '';
+        }
+        observer.unobserve(el);
+      }
+    });
+  }, { threshold: 0.1 });
+
+  elementos.forEach(el => observer.observe(el));
+});
+
+
+
+
+let muted = false;
+$('#sound,#play').click(() => {
+
+    muted = !muted;
+    if (muted) {
+        audio.play();
+    } else {
+        audio.pause();
+    }
+    $('#sound').find('img').attr('src', muted ? 'sound.svg' : 'sound_mute.svg');
+
+});
+
+
+
+document.addEventListener('DOMContentLoaded', function() {
+
+    floatingController.register('#controls', '.content', {
+        width: 80,
+        customPosition: (element, container, breakpoint) => {
+            const rect = container.getBoundingClientRect();
+            element.style.right = rect.left + 'px';
+            element.style.bottom = '0px';
+        }
+    });
+
+});
+
+
+
+
+</script>
+</body>
+</html>
+
+
+
+
+------------------------------
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mis XV Dulce Zoe Cortes Flores</title>
+
+    <!-- Meta tags para redes sociales -->
+    <meta property="og:title" content="Mis XV Dulce Zoe Cortes Flores">
+    <meta property="og:description" content="¡Te invito a celebrar conmigo este día tan especial!">
+    <meta property="og:image" content="https://invitadigitales.github.io/DulceZoe/f.png">
+    <meta property="og:url" content="https://invitadigitales.github.io/DulceZoe/">
+    <meta property="og:type" content="website">
+
+    <!-- CSS Libraries -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-SgOJa3DmI69IUzQ2PVdRZhwQ+dy64/BUtbMJw1MZ8t5HZApcHrRKUc4W0kG879m7" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flexslider@2.7.2/flexslider.css">
+    <link rel="stylesheet" href="awesome/css/font-awesome.min.css">
+
+    <link rel="stylesheet" type="text/css" href="util.css">
+    <link rel="stylesheet" type="text/css" href="filter.css">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+
+</head>
+
+<body>
+    <div class="content bg_pink">
+
+
+
+        <div class="pst_relative w_100 overflow_hidden">
+
+      
+
+            <div class="pst_absolute w_100 px_10  toppx_220 w_95 zdex_2" style="height: 2800px;">
+                <img class="w_100 h_100 no_touch" src="c_arco.png">
+            </div>
+    
+            <div class="pst_relative zdex_4">
+
+
+                <div class="pst_absolute w_100  toppx_min_1 w_95 zdex_2">
+                    <img class="w_100 no_touch" src="ground.png" style="filter: invert(18%) sepia(98%) saturate(3500%) hue-rotate(293deg) brightness(60%) contrast(120%)">
+                </div>
+
+
+                <div class="pst_absolute w_100 px_10  toppx_20 w_95 zdex_2">
+                    <img class="w_100 no_touch" src="arco_top.svg">
+                </div>
+                
+
+                <img class="pst_absolute toppx_min_60 leftpx_min_50 wpx_150 zdex_2 animate_wind" src="floflo.png">
+                <img class="pst_absolute toppx_min_60 rightpx_min_50 wpx_150 zdex_2 animate_wind" src="floflo.png">
+
+                <center>
+                    <img src="corona.png" class="w_100 max_wpx_150 mt_60"><br>
+                    <img src="misxv.png" class="w_100 max_wpx_200 mt_20">
+                </center>
+
+            </div>
+
+
+            <div class="pst_relative zdex_4">
+
+
+
+                <img class="pst_absolute toppx_10 rightpx_min_30 wpx_80 zdex_2 animate_wind" src="ojitas.png" 
+                     style="filter: saturate(1.3) hue-rotate(62deg) brightness(0.8) contrast(1.1); opacity: 0.5;">
+
+                <img class="pst_absolute toppx_10 leftpx_min_30 wpx_80 zdex_2 animate_wind" src="ojitas.png" 
+                     style="filter: saturate(1.3) hue-rotate(62deg) brightness(0.8) contrast(1.1); opacity: 0.5;">
+
+
+    
+                <center>
+                    <h1 class="font_charm fspx_20 m_0 mt_10 color_carmin text_shadow_carmin">
+                        He aprendido que estar con<br> quienes quiero es suficiente para<br> ser feliz, por eso deseo que<br>
+                         me acompañes en uno de los <br>momentos más importantes<br> de mi vida, <br>algo que solo se vive una vez...
+                    </h1>
+                </center>
+  
+            </div>
+
+
+            <div class="pst_relative zdex_4">
+                
+                
+                <div class="pst_absolute w_100 hpx_500 px_10  toppx_min_50 w_95 zdex_2">
+                    <img class="w_100 h_100 no_touch" src="rayas.svg">
+                </div>
+
+                <center>
+                    <img src="repo.png" id="play" class="w_100 max_wpx_200 mt_30 pst_relative zdex_4"  style="filter: saturate(1.3) hue-rotate(280deg) brightness(0.8) contrast(2.1);">
+
+                    <h1 class="font_charm fspx_20 m_0 mt_10 color_carmin text_shadow_carmin">Clcik para reproducir</h1>
+                </center>
+                
+                <div class="d_block hpx_150"></div>
+                <center>
+                    <h1 class="font_temp fspx_50 m_0 mt_20 color_carmin text_shadow_carmin">Zoe</h1>
+                </center>
+                <div class="d_block hpx_170"></div>
+                
+            </div>
+
+
+            <div class="pst_relative zdex_4">
+                
+                <img class="pst_absolute toppx_min_150 rightpx_min_30 wpx_80 zdex_2 animate_wind" src="ojitas.png" 
+                     style="filter: saturate(1.3) hue-rotate(62deg) brightness(0.8) contrast(1.1); opacity: 0.5;">
+
+                <img class="pst_absolute toppx_min_150 leftpx_min_30 wpx_80 zdex_2 animate_wind" src="ojitas.png" 
+                     style="filter: saturate(1.3) hue-rotate(62deg) brightness(0.8) contrast(1.1); opacity: 0.5;">
+  
+                
+                <img class="pst_absolute wpx_50 top_min_60 left_20" src="mariposas.png">
+                <img class="pst_absolute wpx_50 top_min_60 right_20" src="mariposas.png">
+             
+                <!--<div class="pst_absolute top_min_50 right_45 zdex_2  rotate_10 ">
+                    <img class="pst_absolute wpx_110 zdex_2 img_border box_shadow_dark" src="img1.jpg">
+                </div>
+                <div class="pst_absolute top_min_40 left_15 zdex_2  rotate_355 ">
+                    <img class="pst_absolute wpx_110 zdex_2 img_border box_shadow_dark" src="img2.jpg">
+                </div>
+                <div class="d_block hpx_100"></div>-->
+ 
+                <center>
+                    <h1 class="font_charm fspx_20 m_10 color_carmin text_shadow_carmin">
+                        Con la bendición de Dios y el amor<br>
+                        de mis padres, tengo el honor de<br>
+                        invitarte a celebrar mis quince años,<br>
+                        un sueño que hoy se hace realidad.
+                    </h1>
+                </center>
+
+            </div>
+
+
+
+            <div class="pst_relative zdex_4">
+                
+                
+                <div class="pst_absolute w_100 hpx_500 px_10  toppx_min_120 w_95 zdex_2">
+                    <img class="w_100 h_100 no_touch" src="rayas.svg">
+                </div>
+                
+                <div class="pst_absolute w_100 hpx_500 px_10  toppx_60 w_95 zdex_2 rotate_360">
+                    <img class="w_100 h_100 no_touch espejo_y" src="rayas.svg">
+                </div>
+                
+                <img class="pst_absolute toppx_220 rightpx_min_30 wpx_80 zdex_2 animate_wind" src="jojas.png">
+
+                <img class="pst_absolute toppx_220 leftpx_min_30 wpx_80 zdex_2 animate_wind" src="jojas.png">
+  
+       
+                <div class="d_block hpx_80"></div>
+                <center>
+                    <h1 class="font_temp fspx_35 m_0 mt_20 color_carmin text_shadow_carmin">Mis Padres</h1>
+                    <h1 class="font_temp fspx_35 m_0 mt_20 color_black ">Juan Carlos Cortes Martinez</h1>
+                    <h1 class="font_temp fspx_35 m_0 mt_20 color_black ">&</h1>
+                    <h1 class="font_temp fspx_35 m_0 mt_20 color_black">Mary Carmen Flores Zavala</h1>
+                </center>
+                <div class="d_block hpx_70"></div>
+                
+            </div>
+
+
+            <div class="pst_relative zdex_4">
+ 
+                <center>
+                    <h1 class="font_charm fspx_20 m_10 color_black">Recerva este gran dia</h1>
+                </center>
+                
+
+
+
+                <center>
+                    <h1 class="font_temp fspx_35 m_0 mt_20 color_carmin text_shadow_carmin">Dicimbre 2025</h1>
+                </center>
+
+          
+                <div class="calendar-container px_20">
+
+
+                    <img class="pst_absolute toppx_220 rightpx_min_30 wpx_80 zdex_2 animate_wind" src="globos.png">
+
+                    <img class="pst_absolute toppx_220 leftpx_min_30 wpx_80 zdex_2 animate_wind" src="globos.png">
+  
+
+                    <div class="calendar-grid">
+                        <!-- Headers de días -->
+                        <div class="day-header">L</div>
+                        <div class="day-header">M</div>
+                        <div class="day-header">M</div>
+                        <div class="day-header">J</div>
+                        <div class="day-header">V</div>
+                        <div class="day-header">S</div>
+                        <div class="day-header">D</div>
+                        
+                        <!-- Primera semana -->
+                        <div class="day-cell">1</div>
+                        <div class="day-cell">2</div>
+                        <div class="day-cell">3</div>
+                        <div class="day-cell">4</div>
+                        <div class="day-cell">5</div>
+                        <div class="day-cell">6</div>
+                        <div class="day-cell">7</div>
+
+                        
+                        <!-- Segunda semana -->
+ 
+                        <div class="day-cell">8</div>
+                        <div class="day-cell">9</div>
+                        <div class="day-cell">10</div>
+                        <div class="day-cell">11</div>
+                        <div class="day-cell">12</div>
+                        <div class="day-cell">13</div>
+                        <div class="day-cell">14</div>
+
+                        
+                        <!-- Tercera semana -->
+                        <div class="day-cell">15</div>
+                        <div class="day-cell">16</div>
+                        <div class="day-cell">17</div>
+                        <div class="day-cell">18</div>
+                        <div class="day-cell">19</div>
+                        <div class="day-cell">
+                            <div class="pst_absolute top_1 right_1 zdex_2  rotate_0">
+                                <img class="wpx_100 observado animate__rollIn" src="corazon.gif">
+                            </div>
+                            <span>20</span>
+                        </div>  
+                        <div class="day-cell">21</div>
+                        
+                        <!-- Cuarta semana -->
+                        <div class="day-cell">22</div>
+                        <div class="day-cell">23</div>
+                        <div class="day-cell">24</div>
+                        <div class="day-cell">25</div>
+                        <div class="day-cell">26</div>
+                        <div class="day-cell">27</div>
+                        <div class="day-cell">28</div>
+        
+                        
+                        <!-- Quinta semana -->
+                        <div class="day-cell">29</div>
+                        <div class="day-cell">30</div>
+                        <div class="day-cell">31</div>
+                        <div class="day-cell"></div>
+                        <div class="day-cell"></div>
+                        <div class="day-cell"></div>
+                        <div class="day-cell"></div>                      
+          
+                    </div>
+                </div>
+          
+
+                <center class="mt_40">
+                    <h1 class="font_temp fspx_35 m_0 mt_20 color_carmin text_shadow_carmin">Solo faltan:</h1>
+                </center>
+                
+            
+                <div class="text-center mt_20">
+                    <div id="countdown" class="color_black"></div>
+                </div><br>
+            </div>
+
+
+
+
+            
+
+
+
+
+
+
+            <div class="pst_relative zdex_4">
+                <div class="pst_relative w_100 px_10  toppx_min_10 w_95 zdex_2 rotate_360">
+                    <img class="w_100 no_touch espejo_y" src="rayas.svg">
+                </div>
+                <div class="d_flex jc_space_evenly">
+                    <div>
+                        <center class="mt_5">
+                            <h1 class="font_temp mt_5 fspx_15 m_0 color_black">Recepción:</h1>
+                            <h1 class="font_charm mt_5 fspx_25 m_0 color_black">5:00pm</h1>
+                            <h1 class="font_temp mt_5 fspx_15 m_0 color_carmin">Salón imperial</h1>
+
+                            <a href="https://maps.app.goo.gl/RgLXizycUCYxynnb9" class=" mt_10 bg_degrado_carmin brln_2px color_black d_block py_5 rounded font_charm text_underline">Ubicación</a>
+                        </center>
+                    </div>
+                    <div>
+                        <center class="mt_5">
+                            <h1 class="font_temp mt_5 fspx_15 m_0 color_black">Código<br>de Vestimenta:</h1>
+                            <div class="d_flex jc_space_evenly align_center mt_20">
+                                <img class="wpx_70 hpx_40 filter_black" src="code.png">
+                                <div>
+                                    <h1 class="font_temp mt_5 fspx_15 m_0 color_carmin">Formal</h1>
+                                </div>
+                            </div>
+                        </center>
+                    </div>
+                </div>
+                <div class="d_flex jc_space_evenly mt_20">
+                    <div>
+                        
+                        <center class="mt_5">
+                            <h1 class="font_temp mt_5 fspx_15 m_0 color_black">Confirmacion<br>de Asistencia:</h1>
+                            <img class="wpx_40 filter_black" src="calendar.png">
+                            <h1 class="font_temp mt_5 fspx_15 m_0 color_carmin">Por favor confirme<br>su asistencia antes del</h1>
+                            <h1 class="font_temp mt_5 fspx_15 m_0 color_black">20 de Dicimbre</h1>
+
+                            <a href="https://api.whatsapp.com/send?phone=5514000054&text=Hola,%20confirmo%20mi%20asistencia%20a%20tu%20evento" class=" mt_10 text_underline bg_degrado_carmin brln_2px color_black d_block py_5 rounded font_charm">Confirmar</a>
+                        </center>
+
+                    </div>
+                    <div>
+                        <center class="mt_5">
+                            <h1 class="font_temp mt_5 fspx_15 m_0 color_black">Sugerencia<br>de Regalo:</h1>
+                            
+                            <h1 class="font_charm my_10 fspx_15 m_0 color_black">
+                                Tradicionalmente puedes<br>regalar un sobre con dinero<br>para el dia de la celebración-<br>pero si prefieres darme un<br>
+                                regalo, también me haría felíz<br>aunque para mi tu<br>presencia es la más importante.
+                            </h1>
+
+                            <img class="wpx_70 hpx_40 filter_black" src="regalo.png">
+                        </center>
+                    </div>
+                </div>
+
+                        
+                <center>
+                    <h1 class="font_temp fspx_35 m_0 mt_40 color_black">¡Te esperamos!</h1><br><br>
+                </center>
+
+
+                <img class="pst_absolute bottom_min_10 leftpx_min_50 wpx_150 zdex_2 animate_wind" src="floflo.png">
+                <img class="pst_absolute bottom_min_10 rightpx_min_70 wpx_150 zdex_2 animate_wind" src="floflo.png">
+
+
+            </div>
+
+        </div>
+
+        
+
+
+        <!-- Footer -->
+        <footer class="bd-footer pb-4 mt_50">
+            <div class="container-fluid pb-4">
+                <div class="row align-items-center py-4">
+
+                    <div class="col-12 text-center mb-3 mb-md-0">
+                       <p class="font_chewy mb-0 fs-6">© 2025 Todos los derechos reservados</p>
+                       <a href="https://invitadigitales.github.io/mx/" class="font_chewy mb-0 fs-6 no_link color_black">
+                          <img src="net.svg" alt="Instagram" class="footer-icon filter_invert">
+                          <span>invitadigitales.github.io/mx<span>
+                        </a>
+                    </div>
+
+                    <div class="col-12">
+                        <div class="d-flex justify-content-center gap-2">
+                            <div class="footer-links font_chewy">
+                                <a href="https://www.facebook.com/invitasdigital/" class="d-flex align-items-center justify-content-center fs-6 ">
+                                    <img src="facebook.svg" alt="Facebook" class="footer-icon filter_invert">
+                                    <span>InvitaDigitales</span>
+                                </a>
+                            </div>
+                            <div class="footer-links font_chewy">
+                                <a href="https://www.instagram.com/inbitadigitales/" class="d-flex align-items-center justify-content-center fs-6">
+                                    <img src="instagram.svg" alt="Instagram" class="footer-icon filter_invert">
+                                    <span>InbitaDigitales</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+
+        <div class="pst_fixed zdex_9999 p_30" id="controls">
+            <ul class="m_0 p_0 liststyle_none">
+                <li id="sound">
+                    <img src="sound_mute.svg" class="wpx_35 cur_pointer">
+                </li>
+
+            </ul>
+        </div>
+    </div>
+
+<!-- Scripts -->
+<script src="controller.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/flexslider@2.7.2/jquery.flexslider-min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/countdown/2.6.0/countdown.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/js/bootstrap.bundle.min.js" integrity="sha384-k6d4wzSIapyDyv1kpU366/PK5hCdSbCRGRCMv+eplOQJWyd1fbcAu9OCUj5zNLiq" crossorigin="anonymous"></script>
+
+
+
+
+<script>
+
+
+var audio = new Audio('audio.mp3');
+audio.loop = true;
+audio.volume = 0.5;
+
+
+
+var targetDate = new Date("Dec 20, 2025 08:00:00").getTime();
+var countdownTimer = countdown(
+    targetDate,
+    function(ts) {
+        var countdownText = `
+            <div class="time-container">
+                <span class="fspx_30 bg_degrado_carmin p_10 rounded d_block mb_15">${ts.days}</span>
+                <p class="fspx_15">Días</p>
+            </div>
+            <div class="time-container">
+                <span class="fspx_30 bg_degrado_carmin p_10 rounded d_block mb_15">${ts.hours}</span>
+                <p class="fspx_15">Horas</p>
+            </div>
+            <div class="time-container">
+                <span class="fspx_30 bg_degrado_carmin p_10 rounded d_block mb_15">${ts.minutes}</span>
+                <p class="fspx_15">Min.</p>
+            </div>
+            <div class="time-container">
+                <span class="fspx_30 bg_degrado_carmin p_10 rounded d_block mb_15">${ts.seconds}</span>
+                <p class="fspx_15">Seg.</p>
+            </div>
+        `;
+
+        document.getElementById("countdown").innerHTML = countdownText;
+    },
+    countdown.DAYS | countdown.HOURS | countdown.MINUTES | countdown.SECONDS
+);
+
+
+
+
+$('.flexslider').flexslider({
+    animation: "fade",
+    slideshow: true,
+    slideshowSpeed: 1500,
+    animationSpeed: 600,
+    pauseOnHover: false, 
+    controlNav: true,   
+    directionNav: true
+
+});
+
+
+
+
+let muted = false;
+$('#sound,#play').click(() => {
+
+    muted = !muted;
+    if (muted) {
+        audio.play();
+    } else {
+        audio.pause();
+    }
+    $('#sound').find('img').attr('src', muted ? 'sound.svg' : 'sound_mute.svg');
+
+});
+
+
+
+document.addEventListener('DOMContentLoaded', function() {
+
+    floatingController.register('#controls', '.content', {
+        width: 80,
+        customPosition: (element, container, breakpoint) => {
+            const rect = container.getBoundingClientRect();
+            element.style.right = rect.left + 'px';
+            element.style.bottom = '0px';
+        }
+    });
+
+});
+
+
+
+
+
+
+
+</script>
+</body>
+</html>
+
+
+
+
+
+
+
+--------------------------------
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mis XV Vanya Fernanda Galicia Jurado</title>
+
+    <!-- Meta tags para redes sociales -->
+    <meta property="og:title" content="Mis XV Vanya Fernanda Galicia Jurado">
+    <meta property="og:description" content="¡Te invito a celebrar conmigo este día tan especial!">
+    <meta property="og:image" content="https://invitadigitales.github.io/FernandaGalicia/f.png">
+    <meta property="og:url" content="https://invitadigitales.github.io/FernandaGalicia/">
+    <meta property="og:type" content="website">
+
+    <!-- CSS Libraries -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-SgOJa3DmI69IUzQ2PVdRZhwQ+dy64/BUtbMJw1MZ8t5HZApcHrRKUc4W0kG879m7" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flexslider@2.7.2/flexslider.css">
+    <link rel="stylesheet" href="awesome/css/font-awesome.min.css">
+
+    <link rel="stylesheet" type="text/css" href="util.css">
+    <link rel="stylesheet" type="text/css" href="filter.css">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+
+</head>
+
+<body>
+    <div class="content">
+
+
+
+        <div class="pst_relative w_100 overflow_hidden">
+
+      
+
+
+     
+
+            <div class="pst_relative zdex_4 overflow_hidden" style="height: 450px;">
+                <div class="pst_absolute w_100 toppx_min_5">
+                    <img class="w_100 no_touch" src="castillo.png">
+                </div>
+                <div class="pst_absolute w_100 px_10  toppx_10 w_95">
+                    <img class="w_100 no_touch observado animate__bounceInUp" src="h1.png">
+                </div>
+                <div class="no_touch hpx_300 pst_absolute w_100 bottom_min_5" style="background: linear-gradient(to bottom, transparent, black);"></div>
+                <center class="pst_relative top_60">
+                    <h1 class="font_charm fspx_35 m_0 mt_20 color_white ">Mis XV</h1>
+                    <h1 class="font_temp fspx_50 m_0 mt_10 color_white">Vanya</h1>
+                </center>
+            </div>
+
+
+
+            <div class="pst_relative zdex_4 overflow_hidden" style="height: 200px;">
+                <div class="pst_absolute w_100 toppx_min_5">
+                    <img class="w_100 no_touch" src="libros.png">
+                </div>
+                <center class="pst_relative top_25">
+                    <h1 class="font_temp fspx_30 m_0 mt_10 color_white observado animate__rollIn">Play</h1>
+                    <img class="mt_10 wpx_30 observado animate__rollIn" src="repo.png" id="play">
+                </center>
+            </div>
+
+
+
+
+            <div class="pst_relative zdex_4 overflow_hidden" style="height: 400px;">
+                <div class="pst_absolute w_100 toppx_min_180">
+                    <img class="w_100 no_touch" src="libca.png">
+                </div>
+                <div class="pst_relative top_10 ml_20">
+
+                    <h1 class="font_charm max_wpx_280 fspx_15 m_0 mt_10 color_white observado animate__rollIn">
+                        Hemos planeado la mejor fiesta fuera de Hogwarts y con el amor que mis padres me han dado, me siento feliz 
+                        de llegar a este momento de mi vida, el día que comenzaré un nuevo viaje. !Prepárense para la magia y el descontrol!
+                    </h1>
+                    
+                </div>
+            </div>
+
+            
+            <div class="pst_relative zdex_4 overflow_hidden bg_mostasa" style="height: 450px;">
+                <div class="pst_absolute w_100 px_10  toppx_10 w_95 overflow_hidden" style="height: 425px;">
+
+                    <div class="pst_relative w_100  toppx_min_80 w_95">
+                        <img class="w_100 no_touch observado animate__bounceInUp" src="somre.png">
+                    </div>
+                </div>
+            </div>
+
+
+
+
+            <div class="pst_relative zdex_4 overflow_hidden" style="height: 700px;">
+                <div class="pst_absolute h_100 top_50 left_50 tra_x50">
+                    <img class="h_100 no_touch" src="escudo.png">
+                </div>
+                <center class="pst_relative">
+                    <h1 class="font_temp fspx_40 m_0 mt_50 color_white">Gracias</h1>
+                    <div class="d_block hpx_50"></div>
+                    <h1 class="font_charm fspx_20 max_wpx_280 m_0 mt_50 color_black">
+                        "Gracias, papás y querida familia, por su amor incondicional y apoyo en este 
+                        día tan especial. Su guía y cariño han hecho posible este sueño, y siempre
+                        llevaré en mi corazón todo lo que han hecho por mí."
+                    </h1>
+                    <h1 class="font_temp fspx_30 m_0 mt_30 color_black">Mis Papás</h1>
+                    <h1 class="font_charm fspx_40 m_0 color_vino">Reyna Jurado A. y Carlos Galicia G. </h1>
+                    <h1 class="font_temp fspx_30 m_0 mt_30 color_black">Mis Padrinos</h1>
+                    <h1 class="font_charm fspx_40 m_0 color_vino">Laura Martinez J. y Eduardo Martinez J.</h1>
+                </center>
+            </div>
+
+
+
+            
+
+            <div class="pst_relative zdex_4 overflow_hidden" style="height: 450px;">
+                <div class="pst_absolute w_100 top_min_20">
+                    <img class="w_100 no_touch" src="estu.png">
+                </div>
+            </div>
+
+
+            <div class="pst_relative zdex_4 overflow_hidden" style="height: 450px;">
+                <div class="pst_absolute w_100 top_70 left_50 tra_x50">
+                    <img class="w_100 no_touch" src="buo.png">
+                </div>
+                <center class="pst_relative">
+                    <div class="d_block hpx_120"></div>
+                    <h1 class="font_temp fspx_40 m_0 mt_10 color_white">Fecha</h1>
+                    
+                    <div class="font_charm max_wpx_280 m_0 mt_50 color_black">
+                        <div class="text_left color_vino fspx_30 line_height_40">Sábado</div>
+                        <div class="text_center color_vino fspx_70 line_height_40">27</div>
+                        <div class="text_right color_white fspx_30 line_height_40">Diciembre</div>
+                        <div class="text_left color_white fspx_30 line_height_40">2025</div>
+                    </div>
+
+                </center>
+            </div>
+
+
+            <div class="pst_relative zdex_4 overflow_hidden">
+                <div class="pst_absolute right_120 bottom_40   zdex_2  rotate_360">
+                    <img class="pst_absolute wpx_100" src="cuernos.png">
+                </div>
+                <div class="pst_absolute left_80   zdex_2  rotate_20">
+                    <img class="pst_absolute wpx_70" src="hp.png">
+                </div>
+                <div class="pst_absolute w_100 bg_mostasa w_100 h_100"></div>
+                <center class="pst_relative m_20" style="border-radius: 20px; border: 5px solid #df1717; background: #6b1515; ">
+                    <div class="d_block hpx_30"></div>
+                    <h1 class="font_temp fspx_30 m_0 mt_10 color_white">Solo faltan:</h1>
+                    <div class="text_center color_white">
+                        <div id="countdown" class="fspx_20 font_times font_bold"></div>
+                    </div>
+                    <div class="d_block hpx_30"></div>
+                </center>
+            </div>
+
+
+
+            <div class="pst_relative zdex_4 overflow_hidden" style="height: 450px;">
+                <div class="pst_absolute w_100 top_min_20">
+                    <img class="w_100 no_touch" src="maga.png">
+                </div>
+            </div>
+
+
+
+
+            <div class="pst_relative zdex_4 overflow_hidden">
+                <!--<div class="pst_absolute right_120 bottom_40   zdex_2  rotate_360">
+                    <img class="pst_absolute wpx_100" src="cuernos.png">
+                </div>-->
+
+
+                
+               
+                
+                <div class="pst_absolute w_100 bg_mostasa w_100 h_100"></div>
+                <center class="pst_relative bg_vino m_20">
+                    <div class="d_block hpx_30"></div>
+
+                    <img class="pst_absolute toppx_50 mt_10 wpx_250 left_50 tra_x50 " src="perga.png">
+
+                    <div class="pst_relative">
+                        <h1 class="font_charm fspx_30 m_0 mt_10 color_vino">ITINERARIO</h1>
+
+                        <div class="d_block hpx_30"></div>
+
+                        <h1 class="font_temp fspx_30  mt_10 color_white">Misa</h1>
+                        
+                        <img class="mt_5 wpx_100" src="misa.png">
+                        <h1 class="font_charm fspx_30 color_white">1:45</h1>
+
+                        <h1 class="font_bold mt_10 fspx_20 color_white">Parroquia Inmaculada Concepción de Cocotitlán</h1>
+
+                        <h1 class="font_times fspx_20 m_0 mt_10 color_white line_height_20">Miguel Hidalgo Manzana 013, Ayotepec, 56680 Cocotitlán, Méx.</h1>
+                       
+                       
+                        <div class="pst_absolute left_70 zdex_2  rotate_40">
+                            <img class="pst_absolute no_touch toppx_min_50 wpx_90" src="sombrero.png">
+                        </div>
+
+                        <a href="https://maps.app.goo.gl/5ifJxZ5PjEb8Sj2X6" class="d_block mt_20 p_10 fspx_20 no_link bg_white max_wpx_150 round_50px color_black font_charm">Ir a mapa</a>
+
+                        <img class="mt_20 w_90" src="lugar1.jpg">
+
+                    </div>
+
+       
+                    <div class="d_block hpx_20"></div>
+                </center>
+            </div>
+
+
+            <div class="pst_relative zdex_4 overflow_hidden" style="height: 450px;">
+                <div class="pst_absolute w_100 top_70 left_50 tra_x50">
+                    <img class="w_100 no_touch" src="cobi.png">
+                </div>
+                  
+                
+                <img class="pst_absolute toppx_10 leftpx_min_5 wpx_130 zdex_2 animate_wind" src="faro.png">
+                <img class="pst_absolute toppx_50 rightpx_10 wpx_80 zdex_2 animate_wind" src="harry.png">
+                
+                
+
+                <center class="pst_relative m_20 z" style="border-radius: 20px; border: 5px solid #df1717; background: #6b1515; ">
+                    <div class="d_block hpx_30"></div>
+                    <h1 class="font_temp fspx_30 m_0 mt_10 color_white">Recepción</h1>
+                    <div class="d_block hpx_40"></div>
+
+                    <!--<h1 class="font_charm fspx_30 color_white my_20">5:00</h1>-->
+                    
+                    <h1 class="font_bold mt_10 fspx_20 color_white">Salon de eventos limones</h1>
+                    <h1 class="font_times fspx_20 m_0 mt_10 color_white line_height_20">56680, Tlapipinca, 56680 Chalco de Díaz Covarrubias, Méx.</h1>
+                    
+                    <a href="https://maps.app.goo.gl/XBY8DVXy32pwTbVE9" class="d_block mt_20 p_10 fspx_20 no_link bg_white max_wpx_150 round_50px color_black font_charm">Ir a mapa</a>
+                    
+                    <img class="mt_5 wpx_100" src="oya.png">
+
+                    <div class="d_block hpx_10"></div>
+                </center>
+            </div>
+
+
+
+
+
+
+            <!--<div class="pst_relative zdex_4 overflow_hidden" style="height: 480px;">
+                <div class="pst_absolute w_100 top_60 left_50 tra_x50">
+                    <img class="w_100 no_touch" src="banda.png">
+                </div>
+                  
+                <center class="pst_relative bg_vino m_20">
+           
+
+            
+                    <div class="d_block hpx_20"></div>
+
+                    <div class="pst_relative">
+                   
+
+                        <h1 class="font_temp fspx_30  mt_10 color_white">Cena</h1>
+                        <img class="my_5 wpx_100" src="cena.png">
+                        <h1 class="font_charm fspx_30 color_white">5:00</h1>
+
+                        <div class="d_block hpx_2 wpx_100 m_0a bg_white mb_20"></div>
+
+                        <h1 class="font_temp fspx_30  mt_10 color_white">Vals</h1>
+                        <img class="my_5 wpx_100" src="vals.png">
+                        <h1 class="font_charm fspx_30 color_white">5:00</h1>
+
+      
+                    </div>
+
+       
+                    <div class="d_block hpx_20"></div>
+                </center>
+            </div>-->
+
+
+            <div class="pst_relative zdex_4 overflow_hidden" style="height: 450px;">
+                <div class="pst_absolute w_100 top_min_20">
+                    <img class="w_100 no_touch" src="bru.png">
+                </div>
+            </div>
+
+
+
+
+
+
+
+
+            <div class="pst_relative zdex_4 overflow_hidden">
+                
+                <div class="pst_absolute w_100 bg_mostasa w_100 h_100"></div>
+
+
+
+                <center class="pst_relative bg_vino m_20 overflow_hidden">
+                    <div class="pst_absolute w_100 top_min_10">
+                        <img class="w_100 no_touch" src="lentes.png">
+                    </div>
+
+
+                    
+                    <div class="d_block hpx_30"></div>
+
+                    <div class="pst_relative">
+                    
+                        <h1 class="font_temp fspx_30 m_0 mt_10 color_white">Código de<br>Vestimenta</h1>
+                        <img class="my_5 wpx_80" src="code.svg">
+                        <h1 class="font_charm fspx_30 color_white">Formal</h1>
+                        <div class="d_block hpx_120"></div>
+                        <h1 class="font_charm fspx_20 color_white max_wpx_200">Se reserva el color rojo para la reina de la noche.</h1>
+
+                    </div>
+
+       
+                    <div class="d_block hpx_30"></div>
+                </center>
+            </div>
+
+
+            <div class="pst_relative zdex_4 overflow_hidden">
+                <div class="pst_absolute w_100 bg_mostasa w_100 h_100"></div>
+
+                <div class="pst_absolute left_100 top_30 zdex_2 rotate_230">
+                    <img class="pst_absolute wpx_200" src="bufanda.png">
+                </div>
+
+                <div class="pst_absolute right_75 bottompx_min_30 zdex_2 rotate_230">
+                    <img class="pst_absolute wpx_200" src="bufanda.png">
+                </div>
+
+                <center class="pst_relative m_20" style="border-radius: 20px; border: 5px solid #df1717; background: #6b1515; ">
+                    <div class="d_block hpx_30"></div>
+                    <h1 class="font_temp fspx_30 m_0 mt_10 color_white">Regalos</h1>
+                  
+                    <h1 class="font_charm fspx_20 color_white max_wpx_200 mt_10">¡Tu presencia es el mejor regalo, pero si deseas hacerme un obsequio te agradecería que fuera en lluvia de sobres!</h1>
+
+            
+                    <img class="wpx_100" src="bu.png"><br>
+                    <img class="wpx_50" src="sobre.png">
+
+                    <h1 class="font_temp fspx_25 m_0 mt_10 color_white">Lluvia de Sobres</h1>
+                    
+
+                    <div class="d_block hpx_30"></div>
+                </center>
+            </div>
+
+
+
+            <div class="pst_relative p_10 zdex_4 overflow_hidden bg_vino">
+
+                <center>
+                    <h1 class="font_temp max_wpx_250 fspx_30 mt_10 color_white p_10 mt_10" style="border: solid 2px #ffffff;">Galería de fotos</h1>
+                </center>
+
+                <div class="gallery p_10">
+                    <img src="f1.png" alt="">
+                    <div class="row2">
+                        <img src="f2.png" alt="">
+                        <img src="f3.png" alt="">
+                    </div>
+                    <img src="f4.png" alt="">
+                </div>
+    
+            </div>
+
+
+
+
+            <!--<div class="pst_relative zdex_4 overflow_hidden">
+                
+                <div class="pst_absolute w_100 bg_mostasa w_100 h_100"></div>
+
+                <img class="pst_absolute bottom_10 leftpx_10 wpx_70 zdex_2 animate_wind" src="posima.png">
+                <img class="pst_absolute toppx_20 leftpx_10 wpx_80 zdex_2 animate_wind" src="escoba.png">
+                <img class="pst_absolute toppx_20 rightpx_10 wpx_80 zdex_2 animate_wind" src="esk.png">
+                
+
+                <center class="pst_relative bg_vino m_20 overflow_hidden round_20px" style="border: 3px solid #8b1818">
+                    <div class="pst_absolute w_100 top_min_10" >
+                        <img class="w_100 no_touch" src="bg1.png">
+                    </div>
+                    <div class="d_block hpx_30"></div>
+
+                    <div class="pst_relative bg_vino m_20 round_20px">
+                        <div class="d_block hpx_20"></div>
+                        <h1 class="font_temp fspx_25 m_0 mt_10 color_white">Confirmar asistencia</h1>
+                        <h1 class="font_charm fspx_20 color_white max_wpx_250 mt_10">
+                            ¡Quiero compartir este momento tan esperado contigo! Por favor ayúdanos confirmando tu 
+                            o te mandaremos un patronus de recordatorio
+                        </h1>
+                        <a href="#" class="d_block mt_20 p_5 fspx_20 no_link max_wpx_220 color_white font_charm" style="border: 3px solid #ffffff">
+                            <img src="wa.svg" class="wpx_20"> Confirmar asistencia
+                        </a>
+                        <div class="d_block hpx_30"></div>
+                    </div>
+
+       
+                    <div class="d_block hpx_30"></div>
+                </center>
+            </div>-->
+
+
+
+
+            <div class="pst_relative zdex_4 overflow_hidden">
+                <div class="pst_absolute w_100 bg_mostasa w_100 h_100"></div>
+                <img class="pst_absolute bottom_10 rightpx_10 wpx_150 zdex_2 animate_wind" src="sombre.png">
+
+                <center class="pst_relative bg_vino m_20 overflow_hidden round_20px" style="border: 3px solid #8b1818">
+                    <div class="pst_absolute w_100 top_min_10" >
+                        <img class="w_100 no_touch" src="mapa.png">
+                    </div>
+                    <div class="d_block hpx_30"></div>
+
+                    <div class="pst_relative bg_vino m_20 round_20px">
+                        <div class="d_block hpx_20"></div>
+                        
+                        <h1 class="font_charm fspx_20 color_white max_wpx_250 mt_10">
+                            Pronto viviré una de mis ilusiones más deseadas, te elegí para formar parte de este sueño y momento especial para mí.<br><br>
+                            ! No llegues tarde! La fiesta no se detiene ni con un Petrificus Totalis!
+                        </h1>
+                        <div class="d_block hpx_20"></div>
+                    </div>
+
+       
+                    <div class="d_block hpx_60"></div>
+                </center>
+            </div>
+
+
+
+
+            <div class="pst_relative zdex_4 overflow_hidden">
+                <div class="pst_absolute w_100 top_50 left_50 tra_x50">
+                    <img class="w_100 no_touch" src="bg2.png">
+                </div>
+                
+                <img class="pst_absolute bottom_40 rightpx_40 wpx_90 zdex_2 animate_wind" src="lentes.gif">
+
+                <div class="d_block hpx_120"></div>
+                
+                <center class="pst_relative bg_white max_wpx_250 m_0a overflow_hidden round_20px">
+                    
+                    <div class="d_block hpx_30"></div>
+                    
+                    <h1 class="font_temp fspx_30 m_0 color_vino">Te esperamos</h1>
+                    
+                    <div class="d_block hpx_30"></div>
+                </center>
+                <div class="d_block hpx_30"></div>
+            </div>
+
+
+
+
+
+        </div>
+        <!-- Footer -->
+        <footer class="bd-footer pt_20 bg_mostasa">
+            <div class="container-fluid pb-4">
+                <div class="row align-items-center py-4">
+
+                    <div class="col-12 text-center mb-3 mb-md-0">
+                       <p class="font_chewy mb-0 fs-6">© 2025 Todos los derechos reservados</p>
+                       <a href="https://invitadigitales.github.io/mx/" class="font_chewy mb-0 fs-6 no_link color_black">
+                          <img src="net.svg" alt="Instagram" class="footer-icon filter_invert">
+                          <span>invitadigitales.github.io/mx<span>
+                        </a>
+                    </div>
+
+                    <div class="col-12">
+                        <div class="d-flex justify-content-center gap-2">
+                            <div class="footer-links font_chewy">
+                                <a href="https://www.facebook.com/invitasdigital/" class="d-flex align-items-center justify-content-center fs-6 ">
+                                    <img src="facebook.svg" alt="Facebook" class="footer-icon filter_invert">
+                                    <span>InvitaDigitales</span>
+                                </a>
+                            </div>
+                            <div class="footer-links font_chewy">
+                                <a href="https://www.instagram.com/inbitadigitales/" class="d-flex align-items-center justify-content-center fs-6">
+                                    <img src="instagram.svg" alt="Instagram" class="footer-icon filter_invert">
+                                    <span>InbitaDigitales</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+
+        <div class="pst_fixed zdex_9999 p_30" id="controls">
+            <ul class="m_0 p_0 liststyle_none">
+                <li id="sound">
+                    <img src="sound_mute.svg" class="wpx_35 cur_pointer">
+                </li>
+
+            </ul>
+        </div>
+    </div>
+
+<!-- Scripts -->
+<script src="controller.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/flexslider@2.7.2/jquery.flexslider-min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/countdown/2.6.0/countdown.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/js/bootstrap.bundle.min.js" integrity="sha384-k6d4wzSIapyDyv1kpU366/PK5hCdSbCRGRCMv+eplOQJWyd1fbcAu9OCUj5zNLiq" crossorigin="anonymous"></script>
+
+<!-- Primero cargar JS de lightGallery -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.2/lightgallery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.2/plugins/thumbnail/lg-thumbnail.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.2/plugins/zoom/lg-zoom.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+
+<script>
+
+
+var audio = new Audio('audio.mp3');
+audio.loop = true;
+audio.volume = 0.5;
+
+
+
+var targetDate = new Date("Dec 27, 2025 08:00:00").getTime();
+var countdownTimer = countdown(
+    targetDate,
+    function(ts) {
+        var countdownText = `
+            <div class="time-container">
+                <span class="fspx_30 px_10 rounded d_block mb_15">${ts.days}</span>
+                <p class="fspx_15">Días</p>
+            </div>
+            <div class="time-container">
+                <span class="fspx_30 px_10 rounded d_block mb_15">${ts.hours}</span>
+                <p class="fspx_15">Horas</p>
+            </div>
+            <div class="time-container">
+                <span class="fspx_30 px_10 rounded d_block mb_15">${ts.minutes}</span>
+                <p class="fspx_15">Min.</p>
+            </div>
+            <div class="time-container">
+                <span class="fspx_30 px_10 rounded d_block mb_15">${ts.seconds}</span>
+                <p class="fspx_15">Seg.</p>
+            </div>
+        `;
+
+        document.getElementById("countdown").innerHTML = countdownText;
+    },
+    countdown.DAYS | countdown.HOURS | countdown.MINUTES | countdown.SECONDS
+);
+
+
+
+
+$('.flexslider').flexslider({
+    animation: "fade",
+    slideshow: true,
+    slideshowSpeed: 1500,
+    animationSpeed: 600,
+    pauseOnHover: false, 
+    controlNav: true,   
+    directionNav: true
+
+});
+
+
+
+
+let muted = false;
+$('#sound,#play').click(() => {
+
+    muted = !muted;
+    if (muted) {
+        audio.play();
+    } else {
+        audio.pause();
+    }
+    $('#sound').find('img').attr('src', muted ? 'sound.svg' : 'sound_mute.svg');
+
+});
+
+
+
+
+
+
+document.addEventListener("DOMContentLoaded", () => {
+  const elementos = document.querySelectorAll(".observado");
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        const el = entry.target;
+        if (el.classList.contains("observado")) {
+          el.className = el.className.replace(/\bobservado\b/, "animate__animated");
+
+          // fuerza reinicio de animación
+          el.style.animation = 'none';
+          void el.offsetWidth; // reflow
+          el.style.animation = '';
+        }
+        observer.unobserve(el);
+      }
+    });
+  }, { threshold: 0.1 });
+
+  elementos.forEach(el => observer.observe(el));
+});
+
+
+
+
+
+document.addEventListener('DOMContentLoaded', function() {
+
+    floatingController.register('#controls', '.content', {
+        width: 80,
+        customPosition: (element, container, breakpoint) => {
+            const rect = container.getBoundingClientRect();
+            element.style.right = rect.left + 'px';
+            element.style.bottom = '0px';
+        }
+    });
+
+});
+
+
+
+
+
+const gallery = document.getElementById('gallery');
+
+// Inicializa LightGallery
+const galleryInstance = lightGallery(gallery, {
+    plugins: [lgThumbnail, lgZoom],
+    speed: 500,
+    thumbnail: true,
+    download: true,
+    zoom: true
+});
+
+
+
+
+
+
+</script>
+</body>
+</html>
