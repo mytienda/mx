@@ -75,11 +75,15 @@
             </div>
 
 
-            <div class="pst_absolute w_100 hpx_150" style=" top: 0%;  "  id="play"></div>
+
+            <center class="pst_absolute w_100" style=" top: 13.5%; ">
+
+                <img src="ley.svg" class="w_100 max_wpx_280 animate__animated animate__pulse animate__infinite" >
+
+            </center>
 
 
 
-            
 
 
 
@@ -143,7 +147,7 @@
             </div>-->
 
 
-            <a class="pst_absolute text_center w_100 hpx_150 d_block" style=" top: 42%;  "
+            <a class="pst_absolute text_center w_100 hpx_150 d_block" style=" top: 31.8%;  "
             href="https://api.whatsapp.com/send?phone=5212229129934&text=Quiero%20mi%20negocio%20digital%20permanente" target="_blank">
               <img src="bt_whatsapp.webp" class="w_100 max_wpx_280 animate__animated animate__pulse animate__infinite" >
             </a>
@@ -202,10 +206,12 @@
                 </div>
             </div>
         </footer>
-
-
-
-
+        
+        
+        
+        <a href="https://api.whatsapp.com/send?phone=+5212229129934&amp;text=Hola,%20vi%20tu%20trabajo%20y%20me%20interesa" class="whatsapp-float" target="_blank" style="left: 20px; transform: none; margin-left: 0px;">
+            <img src="wat.png" alt="WhatsApp" class="whatsapp-icon">
+        </a>
 
 
 
@@ -450,6 +456,125 @@ document.getElementById("sello").addEventListener("click", function() {
     $(window).scrollTop(0);
 });
 $(window).scrollTop(0);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+function controlWhatsAppButton() {
+    const whatsappButton = document.querySelector('.whatsapp-float');
+    const content = document.querySelector('.content');
+    
+    if (!whatsappButton || !content) return;
+    
+    function updateButtonPosition() {
+        const contentRect = content.getBoundingClientRect();
+        const windowWidth = window.innerWidth;
+        const buttonWidth = 80;
+        const margin = 40;
+        
+        // Si la pantalla es muy pequeña, ajustar márgenes
+        const adjustedMargin = windowWidth < 400 ? 20 : margin;
+        
+        // Calcular la posición izquierda del contenedor más el margen
+        let leftPosition = contentRect.left + adjustedMargin;
+        
+        // Asegurar que el botón no se salga del contenedor ni de la pantalla
+        const maxLeft = Math.min(
+            contentRect.right - buttonWidth - adjustedMargin,
+            windowWidth - buttonWidth - 10
+        );
+        const minLeft = Math.max(contentRect.left + adjustedMargin, 10);
+        
+        const finalLeft = Math.min(Math.max(leftPosition, minLeft), maxLeft);
+        
+        whatsappButton.style.left = finalLeft + 'px';
+        whatsappButton.style.transform = 'none';
+        whatsappButton.style.marginLeft = '0';
+    }
+    
+    // Actualizar posición en scroll y resize con debounce
+    let resizeTimeout;
+    function handleResize() {
+        clearTimeout(resizeTimeout);
+        resizeTimeout = setTimeout(updateButtonPosition, 100);
+    }
+    
+    window.addEventListener('scroll', updateButtonPosition);
+    window.addEventListener('resize', handleResize);
+    
+    // Posición inicial con delay para asegurar que el DOM esté listo
+    setTimeout(updateButtonPosition, 100);
+}
+
+function createStarEffect(x, y) {
+    const star = document.createElement('div');
+    star.className = 'star-animation';
+    star.style.left = x + 'px';
+    star.style.top = y + 'px';
+    star.style.width = '20px';
+    star.style.height = '20px';
+    
+    document.body.appendChild(star);
+    
+    setTimeout(() => {
+        star.remove();
+    }, 5500);
+}
+
+
+function initializeEventHandlers() {
+    // Ejemplo de evento para crear efecto de estrella al hacer clic
+    document.addEventListener('click', function(event) {
+        if (event.target.classList.contains('centered-image')) {
+            createStarEffect(event.clientX, event.clientY);
+        }
+    });
+}
+
+
+document.addEventListener('DOMContentLoaded', function() {
+    initializeEventHandlers();
+    controlWhatsAppButton(); // Añadido para controlar el botón de WhatsApp
+});
+
+
+
+
+
+
+
+
+
+
+    
+
 
 
 
